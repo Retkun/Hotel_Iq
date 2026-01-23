@@ -1,0 +1,42 @@
+<div class="blue_theme light-theme" dir="ltr">
+
+  <!-- Keep only this header -->
+  <app-header [showToggle]="!isOver" (toggleCollapsed)="toggleCollapsed()"
+      (toggleMobileNav)="sidenav.toggle()" ></app-header>
+      
+
+  <mat-sidenav-container class="mainWrapper" autosize autoFocus style="height: calc(100vh - 64px); margin-top: 0.2rem;">
+
+    <mat-sidenav #leftsidenav [mode]="isOver ? 'over' : 'side'" [opened]="!isOver"
+      (openedChange)="onSidenavOpenedChange($event)" (closedStart)="onSidenavClosedStart()" class="sidebarNav">
+      <div class="flex-layout">
+        <app-sidebar (toggleMobileNav)="sidenav.toggle()" [showToggle]="isOver"></app-sidebar>
+        
+          <mat-nav-list class="sidebar-list">
+            @for(item of navItems; track item) {
+            <app-nav-item [item]="item" (notify)="sidenav.toggle()">
+            </app-nav-item>
+            }
+          </mat-nav-list>
+    
+      </div>
+    </mat-sidenav>
+
+ 
+      <div class="body-wrapper" style="background-color: #D9E2EE ; ">
+        
+        <main class="pageWrapper maxWidth" style="background-color: #D9E2EE;">
+          <router-outlet></router-outlet>
+        </main>
+      </div>
+
+      <!-- Footer 
+      <div class="p-16 p-t-8 p-b-30 text-center">
+        Developed by <a class="text-decoration-none" href="https://adminmart.com/" target="_blank">
+          Mohamed Amine Harbaoui</a>
+      </div>
+      -->
+   
+
+  </mat-sidenav-container>
+</div>

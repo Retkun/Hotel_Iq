@@ -1,0 +1,57 @@
+# Python-specific files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+*.env
+
+# SQLite database
+hotels.db
+data/stored_hotels_with_reviews.db
+data/hotel_details_cache.json
+
+# Data directory (input JSON should be versioned if sample data, ignored if sensitive)
+# Uncomment the next line if data/ contains sensitive or large files
+# data/
+
+# Virtual environment
+venv/
+.env/
+env/
+*.venv/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+site-packages/
+dist/
+build/
+*.egg-info/
+
+# Testing and coverage
+.pytest_cache/
+coverage/
+*.coverage
+.coverage.*
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+
+# Miscellaneous
+*.bak
+*.swp
+*~

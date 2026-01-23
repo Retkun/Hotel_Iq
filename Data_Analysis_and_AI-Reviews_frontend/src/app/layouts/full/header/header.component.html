@@ -1,0 +1,19 @@
+<mat-toolbar class="topbar gap-4" style="background-color: rgba(129, 123, 255, 0.6); justify-content: center;">
+
+  <!-- Burger Button (positioned absolutely to remain on the left) -->
+  <button mat-icon-button (click)="toggleMobileNav.emit()" aria-label="Toggle Sidebar" style="position: absolute; left: 16px;">
+    <mat-icon style="color: #000;">menu</mat-icon>
+  </button>
+
+  <!-- Centered Header Title -->
+  <span style="
+    font-family: 'Poppins', 'Segoe UI', sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    color: #f5f9ff;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  ">
+    Hotel-IQ: Analytics & AI Sentiment Insights
+  </span>
+
+</mat-toolbar>

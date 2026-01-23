@@ -1,0 +1,1277 @@
+[
+    {
+        "nom_hotel": "PREMIERE CLASSE BORDEAUX OUEST - Eysines",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "671745"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BORDEAUX SUD - Pessac Becquerel",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "650641"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE ROANNE - Perreux",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1055479"
+    },
+    {
+        "nom_hotel": "CAMPANILE EPONE",
+        "marque": "CAMPANILE",
+        "location_id": "487792"
+    },
+    {
+        "nom_hotel": "CAMPANILE ARGENTEUIL",
+        "marque": "CAMPANILE",
+        "location_id": "287144"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS SUD - Porte d'Orléans - Arcueil",
+        "marque": "CAMPANILE",
+        "location_id": "487806"
+    },
+    {
+        "nom_hotel": "CAMPANILE COMPIEGNE",
+        "marque": "CAMPANILE",
+        "location_id": "481757"
+    },
+    {
+        "nom_hotel": "CAMPANILE VIRE",
+        "marque": "CAMPANILE",
+        "location_id": "287061"
+    },
+    {
+        "nom_hotel": "CAMPANILE DUNKERQUE EST - Armbouts Cappel",
+        "marque": "CAMPANILE",
+        "location_id": "488201"
+    },
+    {
+        "nom_hotel": "CAMPANILE BORDEAUX EST - Artigues",
+        "marque": "CAMPANILE",
+        "location_id": "488530"
+    },
+    {
+        "nom_hotel": "CAMPANILE BESANCON OUEST - Chateaufarine",
+        "marque": "CAMPANILE",
+        "location_id": "482484"
+    },
+    {
+        "nom_hotel": "CAMPANILE SAINT BRIEUC - Langueux",
+        "marque": "CAMPANILE",
+        "location_id": "488523"
+    },
+    {
+        "nom_hotel": "CAMPANILE SAINTES",
+        "marque": "CAMPANILE",
+        "location_id": "488525"
+    },
+    {
+        "nom_hotel": "CAMPANILE BORDEAUX NORD - Le Lac",
+        "marque": "CAMPANILE",
+        "location_id": "482410"
+    },
+    {
+        "nom_hotel": "CAMPANILE BORDEAUX SUD - Gradignan - Talence",
+        "marque": "CAMPANILE",
+        "location_id": "287130"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE SAINT ETIENNE NORD - Villars",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "650649"
+    },
+    {
+        "nom_hotel": "CAMPANILE BIARRITZ",
+        "marque": "CAMPANILE",
+        "location_id": "312971"
+    },
+    {
+        "nom_hotel": "CAMPANILE CAHORS",
+        "marque": "CAMPANILE",
+        "location_id": "287191"
+    },
+    {
+        "nom_hotel": "CAMPANILE AURILLAC",
+        "marque": "CAMPANILE",
+        "location_id": "287120"
+    },
+    {
+        "nom_hotel": "CAMPANILE CHANAS",
+        "marque": "CAMPANILE",
+        "location_id": "609196"
+    },
+    {
+        "nom_hotel": "KYRIAD SANNOIS - Ermont",
+        "marque": "KYRIAD",
+        "location_id": "487791"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LILLE NORD - Roncq",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644584"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE VALENCIENNES SUD - Rouvignies",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488879"
+    },
+    {
+        "nom_hotel": "CAMPANILE SAINT GERMAIN EN LAYE",
+        "marque": "CAMPANILE",
+        "location_id": "287165"
+    },
+    {
+        "nom_hotel": "CAMPANILE MARNE LA VALLEE - TORCY",
+        "marque": "CAMPANILE",
+        "location_id": "549562"
+    },
+    {
+        "nom_hotel": "CAMPANILE MARNE LA VALLEE - Chelles",
+        "marque": "CAMPANILE",
+        "location_id": "483698"
+    },
+    {
+        "nom_hotel": "CAMPANILE DIJON SUD - Marsannay",
+        "marque": "CAMPANILE",
+        "location_id": "488079"
+    },
+    {
+        "nom_hotel": "CAMPANILE VALENCIENNES OUEST - Petite Forêt",
+        "marque": "CAMPANILE",
+        "location_id": "488205"
+    },
+    {
+        "nom_hotel": "CAMPANILE LILLE OUEST - Lomme",
+        "marque": "CAMPANILE",
+        "location_id": "488213"
+    },
+    {
+        "nom_hotel": "CAMPANILE DINAN - Taden",
+        "marque": "CAMPANILE",
+        "location_id": "488527"
+    },
+    {
+        "nom_hotel": "CAMPANILE MONT DE MARSAN",
+        "marque": "CAMPANILE",
+        "location_id": "287126"
+    },
+    {
+        "nom_hotel": "CAMPANILE CLERMONT FERRAND NORD - Riom",
+        "marque": "CAMPANILE",
+        "location_id": "488540"
+    },
+    {
+        "nom_hotel": "CAMPANILE AIX EN PROVENCE SUD - Pont de l'Arc",
+        "marque": "CAMPANILE",
+        "location_id": "287042"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS - Clichy Centre",
+        "marque": "CAMPANILE",
+        "location_id": "14196263"
+    },
+    {
+        "nom_hotel": "KYRIAD AIX LES MILLES - Plan de Campagne",
+        "marque": "KYRIAD",
+        "location_id": "1841232"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT HAGUENAU",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "287137"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE CHARLEVILLE-MEZIERES",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1025196"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE EVREUX",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "650647"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LILLE NORD - Tourcoing",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "2173933"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE EPINAL",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1014410"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE NIORT EST - La Crèche",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "635422"
+    },
+    {
+        "nom_hotel": "CAMPANILE MARNE LA VALLEE - BUSSY ST GEORGES",
+        "marque": "CAMPANILE",
+        "location_id": "243829"
+    },
+    {
+        "nom_hotel": "CAMPANILE METZ EST - Technopole",
+        "marque": "CAMPANILE",
+        "location_id": "287174"
+    },
+    {
+        "nom_hotel": "CAMPANILE COLMAR - Parc des Expositions",
+        "marque": "CAMPANILE",
+        "location_id": "287139"
+    },
+    {
+        "nom_hotel": "CAMPANILE TOULOUSE NORD - L'union",
+        "marque": "CAMPANILE",
+        "location_id": "488535"
+    },
+    {
+        "nom_hotel": "CAMPANILE AIX EN PROVENCE EST - Meyreuil",
+        "marque": "CAMPANILE",
+        "location_id": "488554"
+    },
+    {
+        "nom_hotel": "CAMPANILE LYON NORD - Ecully",
+        "marque": "CAMPANILE",
+        "location_id": "488601"
+    },
+    {
+        "nom_hotel": "CAMPANILE LYON EST - Aéroport Saint Exupéry",
+        "marque": "CAMPANILE",
+        "location_id": "565685"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE ORLEANS NORD - Saran",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644470"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE MONTPELLIER SUD - Lattes",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "651066"
+    },
+    {
+        "nom_hotel": "CAMPANILE CERGY PONTOISE",
+        "marque": "CAMPANILE",
+        "location_id": "481730"
+    },
+    {
+        "nom_hotel": "CAMPANILE BORDEAUX OUEST - Le Bouscat",
+        "marque": "CAMPANILE",
+        "location_id": "488532"
+    },
+    {
+        "nom_hotel": "CAMPANILE MOULINS - Avermes",
+        "marque": "CAMPANILE",
+        "location_id": "287103"
+    },
+    {
+        "nom_hotel": "CAMPANILE NIMES CENTRE - Mas Carbonnel",
+        "marque": "CAMPANILE",
+        "location_id": "481749"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE VALENCIENNES OUEST - Petite-Forêt",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488856"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS OUEST - Gennevilliers Port",
+        "marque": "CAMPANILE",
+        "location_id": "313102"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BAYONNE",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "651035"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE TARBES - Bastillac",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "650685"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE SALON DE PROVENCE",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "197838"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LYON EST - Bron Eurexpo",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1068224"
+    },
+    {
+        "nom_hotel": "CAMPANILE TAVERNY",
+        "marque": "CAMPANILE",
+        "location_id": "487803"
+    },
+    {
+        "nom_hotel": "CAMPANILE MONTARGIS - Amilly",
+        "marque": "CAMPANILE",
+        "location_id": "593812"
+    },
+    {
+        "nom_hotel": "CAMPANILE LENS",
+        "marque": "CAMPANILE",
+        "location_id": "488204"
+    },
+    {
+        "nom_hotel": "CAMPANILE MONTPELLIER EST - Le Millénaire",
+        "marque": "CAMPANILE",
+        "location_id": "280104"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LILLE OUEST - Lomme",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644821"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE NIORT EST - Chauray",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "481720"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE ORANGE",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "306872"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE MARNE LA VALLEE - Saint Thibault des Vignes",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "614150"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS EST - Porte de Bagnolet",
+        "marque": "CAMPANILE",
+        "location_id": "1210085"
+    },
+    {
+        "nom_hotel": "CAMPANILE VILLEJUIF",
+        "marque": "CAMPANILE",
+        "location_id": "287168"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS OUEST - Chaville",
+        "marque": "CAMPANILE",
+        "location_id": "487811"
+    },
+    {
+        "nom_hotel": "CAMPANILE MEAUX",
+        "marque": "CAMPANILE",
+        "location_id": "287159"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE VIERZON",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "614629"
+    },
+    {
+        "nom_hotel": "CAMPANILE ALENCON",
+        "marque": "CAMPANILE",
+        "location_id": "482413"
+    },
+    {
+        "nom_hotel": "CAMPANILE BRIVE LA GAILLARDE OUEST",
+        "marque": "CAMPANILE",
+        "location_id": "287171"
+    },
+    {
+        "nom_hotel": "KYRIAD NANCY OUEST - Laxou Zenith",
+        "marque": "KYRIAD",
+        "location_id": "488397"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LYON EST - Aéroport Saint Exupéry",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "652441"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LYON EST - Saint Priest Eurexpo",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "6588002"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BIARRITZ",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "280969"
+    },
+    {
+        "nom_hotel": "CAMPANILE MARSEILLE - Saint Antoine",
+        "marque": "CAMPANILE",
+        "location_id": "280166"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS 19 - La Villette",
+        "marque": "CAMPANILE",
+        "location_id": "233767"
+    },
+    {
+        "nom_hotel": "CAMPANILE VILLENNES SUR SEINE - Poissy",
+        "marque": "CAMPANILE",
+        "location_id": "487817"
+    },
+    {
+        "nom_hotel": "CAMPANILE CHANTILLY",
+        "marque": "CAMPANILE",
+        "location_id": "235794"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE VERSAILLES - St-Cyr-l'Ecole",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "2484654"
+    },
+    {
+        "nom_hotel": "KYRIAD Design ENZO VIERZON",
+        "marque": "KYRIAD",
+        "location_id": "197154"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LILLE - Villeneuve d'Ascq - Stade Pierre Mauroy",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "3944612"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BREST - Gouesnou Aéroport",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644576"
+    },
+    {
+        "nom_hotel": "CAMPANILE NOGENT SUR MARNE",
+        "marque": "CAMPANILE",
+        "location_id": "287161"
+    },
+    {
+        "nom_hotel": "CAMPANILE DIJON EST - Saint Apollinaire",
+        "marque": "CAMPANILE",
+        "location_id": "565376"
+    },
+    {
+        "nom_hotel": "CAMPANILE DUNKERQUE SUD - Loon Plage",
+        "marque": "CAMPANILE",
+        "location_id": "483751"
+    },
+    {
+        "nom_hotel": "CAMPANILE POITIERS SUD - Aéroport",
+        "marque": "CAMPANILE",
+        "location_id": "261120"
+    },
+    {
+        "nom_hotel": "CAMPANILE MONTPELLIER SUD",
+        "marque": "CAMPANILE",
+        "location_id": "664484"
+    },
+    {
+        "nom_hotel": "CAMPANILE BORDEAUX OUEST - Mérignac Aéroport",
+        "marque": "CAMPANILE",
+        "location_id": "6950278"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BOULOGNE - Saint Martin les Boulogne",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644575"
+    },
+    {
+        "nom_hotel": "CAMPANILE LE HAVRE NORD - Montivilliers",
+        "marque": "CAMPANILE",
+        "location_id": "488056"
+    },
+    {
+        "nom_hotel": "CAMPANILE CLERMONT FERRAND SUD - Issoire",
+        "marque": "CAMPANILE",
+        "location_id": "287104"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LIMOGES NORD",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "481707"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LYON SUD - Chasse sur Rhône",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "232352"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE GENEVE - Saint Genis Pouilly",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "4751645"
+    },
+    {
+        "nom_hotel": "CAMPANILE LILLE NORD - Wasquehal",
+        "marque": "CAMPANILE",
+        "location_id": "488202"
+    },
+    {
+        "nom_hotel": "CAMPANILE BETHUNE - Fouquières Les Béthune",
+        "marque": "CAMPANILE",
+        "location_id": "488207"
+    },
+    {
+        "nom_hotel": "CAMPANILE CLERMONT FERRAND SUD - Aubière",
+        "marque": "CAMPANILE",
+        "location_id": "488541"
+    },
+    {
+        "nom_hotel": "CAMPANILE SALON DE PROVENCE",
+        "marque": "CAMPANILE",
+        "location_id": "286887"
+    },
+    {
+        "nom_hotel": "CAMPANILE BREST - Gouesnou Aéroport",
+        "marque": "CAMPANILE",
+        "location_id": "488522"
+    },
+    {
+        "nom_hotel": "CAMPANILE REIMS EST - Taissy",
+        "marque": "CAMPANILE",
+        "location_id": "534829"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BORDEAUX SUD - Villenave d'Ornon",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1050110"
+    },
+    {
+        "nom_hotel": "CAMPANILE STRASBOURG SUD - Illkirch Geispolsheim",
+        "marque": "CAMPANILE",
+        "location_id": "566074"
+    },
+    {
+        "nom_hotel": "CAMPANILE CONFLANS SAINTE HONORINE",
+        "marque": "CAMPANILE",
+        "location_id": "487798"
+    },
+    {
+        "nom_hotel": "CAMPANILE AIX LES BAINS",
+        "marque": "CAMPANILE",
+        "location_id": "286882"
+    },
+    {
+        "nom_hotel": "KYRIAD LILLE NORD - Roncq",
+        "marque": "KYRIAD",
+        "location_id": "488209"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE DUNKERQUE SUD - Loon Plage",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "2553227"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE ANGERS SUD - Les Ponts de Cé",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "3321653"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT SAINT DIZIER",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "287141"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE MONTLUCON  - St Victor",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "650952"
+    },
+    {
+        "nom_hotel": "CAMPANILE NEVERS NORD - Varennes Vauzelles",
+        "marque": "CAMPANILE",
+        "location_id": "287087"
+    },
+    {
+        "nom_hotel": "KYRIAD BRIE COMTE ROBERT",
+        "marque": "KYRIAD",
+        "location_id": "487815"
+    },
+    {
+        "nom_hotel": "KYRIAD ANGERS SUD - Les Ponts de Cé",
+        "marque": "KYRIAD",
+        "location_id": "534837"
+    },
+    {
+        "nom_hotel": "KYRIAD ARGENTEUIL",
+        "marque": "KYRIAD",
+        "location_id": "313117"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE MEAUX - Nanteuil les Meaux",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488663"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LYON OUEST - Tassin",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "3656756"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE PLAISIR",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "19935893"
+    },
+    {
+        "nom_hotel": "CAMPANILE MAUBEUGE",
+        "marque": "CAMPANILE",
+        "location_id": "287197"
+    },
+    {
+        "nom_hotel": "CAMPANILE CHOLET",
+        "marque": "CAMPANILE",
+        "location_id": "287205"
+    },
+    {
+        "nom_hotel": "CAMPANILE LYON EST - Bron Eurexpo",
+        "marque": "CAMPANILE",
+        "location_id": "535468"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE MONTREUIL",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1055340"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS OUEST - Gennevilliers Barbanniers",
+        "marque": "CAMPANILE",
+        "location_id": "543536"
+    },
+    {
+        "nom_hotel": "CAMPANILE SAINT NAZAIRE - Trignac",
+        "marque": "CAMPANILE",
+        "location_id": "488518"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE ORLEANS OUEST - La Chapelle Saint Mesmin",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644832"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BRIVE LA GAILLARDE OUEST",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644567"
+    },
+    {
+        "nom_hotel": "KYRIAD CAEN NORD - Hérouville Saint Clair",
+        "marque": "KYRIAD",
+        "location_id": "287203"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT MARSEILLE OUEST - Martigues",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "286889"
+    },
+    {
+        "nom_hotel": "CAMPANILE BORDEAUX SUD - Pessac",
+        "marque": "CAMPANILE",
+        "location_id": "1804592"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BOURGES",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "481738"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT EPINAL",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "287173"
+    },
+    {
+        "nom_hotel": "CAMPANILE ANGERS OUEST - Beaucouzé",
+        "marque": "CAMPANILE",
+        "location_id": "488520"
+    },
+    {
+        "nom_hotel": "CAMPANILE FOUGERES",
+        "marque": "CAMPANILE",
+        "location_id": "530397"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT MARSEILLE EST - La Penne",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "488552"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE VALENCE SUD",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "599513"
+    },
+    {
+        "nom_hotel": "CAMPANILE LILLE SUD - CHR",
+        "marque": "CAMPANILE",
+        "location_id": "236901"
+    },
+    {
+        "nom_hotel": "CAMPANILE THIONVILLE - Yutz",
+        "marque": "CAMPANILE",
+        "location_id": "481675"
+    },
+    {
+        "nom_hotel": "CAMPANILE NANTES OUEST - Saint Herblain",
+        "marque": "CAMPANILE",
+        "location_id": "488517"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS 15 - Tour Eiffel",
+        "marque": "CAMPANILE",
+        "location_id": "287475"
+    },
+    {
+        "nom_hotel": "CAMPANILE VILLEFRANCHE SUR SAONE",
+        "marque": "CAMPANILE",
+        "location_id": "481725"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS EST - Bobigny",
+        "marque": "CAMPANILE",
+        "location_id": "487802"
+    },
+    {
+        "nom_hotel": "CAMPANILE ROUEN NORD - Mont Saint Aignan",
+        "marque": "CAMPANILE",
+        "location_id": "565615"
+    },
+    {
+        "nom_hotel": "CAMPANILE LE MANS SUD - Arnage",
+        "marque": "CAMPANILE",
+        "location_id": "488515"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS OUEST - Pte de Champerret Levallois",
+        "marque": "CAMPANILE",
+        "location_id": "287158"
+    },
+    {
+        "nom_hotel": "KYRIAD PARIS EST - Bois de Vincennes",
+        "marque": "KYRIAD",
+        "location_id": "271442"
+    },
+    {
+        "nom_hotel": "KYRIAD MONTARGIS - Amilly",
+        "marque": "KYRIAD",
+        "location_id": "633958"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE MONT DE MARSAN - St Avit",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "224802"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BOISSY-SAINT-LEGER",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488680"
+    },
+    {
+        "nom_hotel": "CAMPANILE VERSAILLES - Buc",
+        "marque": "CAMPANILE",
+        "location_id": "611046"
+    },
+    {
+        "nom_hotel": "CAMPANILE NIMES SUD - Caissargues",
+        "marque": "CAMPANILE",
+        "location_id": "488542"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE DUNKERQUE EST - Armbouts Cappel",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488881"
+    },
+    {
+        "nom_hotel": "CAMPANILE NICE - Aéroport",
+        "marque": "CAMPANILE",
+        "location_id": "197213"
+    },
+    {
+        "nom_hotel": "CAMPANILE LYON CENTRE - Gare Perrache - Confluence",
+        "marque": "CAMPANILE",
+        "location_id": "259392"
+    },
+    {
+        "nom_hotel": "KYRIAD DIJON SUD - Longvic",
+        "marque": "KYRIAD",
+        "location_id": "313014"
+    },
+    {
+        "nom_hotel": "CAMPANILE LYON NORD - Dardilly",
+        "marque": "CAMPANILE",
+        "location_id": "313521"
+    },
+    {
+        "nom_hotel": "CAMPANILE BESANCON NORD - Ecole Valentin",
+        "marque": "CAMPANILE",
+        "location_id": "487412"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT NANCY EST - Essey",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "488399"
+    },
+    {
+        "nom_hotel": "CAMPANILE MACON SUD - Chaintré",
+        "marque": "CAMPANILE",
+        "location_id": "488082"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE NEVERS - Varennes Vauzelles",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "650652"
+    },
+    {
+        "nom_hotel": "CAMPANILE LILLE EST - Villeneuve d'Ascq",
+        "marque": "CAMPANILE",
+        "location_id": "287200"
+    },
+    {
+        "nom_hotel": "CAMPANILE TOULOUSE SUD BALMA - Cité de l'Espace",
+        "marque": "CAMPANILE",
+        "location_id": "312926"
+    },
+    {
+        "nom_hotel": "CAMPANILE ROUEN EST - Franqueville Saint Pierre",
+        "marque": "CAMPANILE",
+        "location_id": "565964"
+    },
+    {
+        "nom_hotel": "KYRIAD GENEVE - Saint Genis Pouilly",
+        "marque": "KYRIAD",
+        "location_id": "551211"
+    },
+    {
+        "nom_hotel": "CAMPANILE PERIGUEUX Boulazac",
+        "marque": "CAMPANILE",
+        "location_id": "488531"
+    },
+    {
+        "nom_hotel": "KYRIAD MONTPELLIER NORD - Parc Euromédecine",
+        "marque": "KYRIAD",
+        "location_id": "488019"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LILLE SUD - Seclin",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644585"
+    },
+    {
+        "nom_hotel": "CAMPANILE METZ NORD",
+        "marque": "CAMPANILE",
+        "location_id": "2678611"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS OUEST - Nanterre - La Défense",
+        "marque": "CAMPANILE",
+        "location_id": "287160"
+    },
+    {
+        "nom_hotel": "CAMPANILE SAINT MALO - Saint Jouan des Guérets",
+        "marque": "CAMPANILE",
+        "location_id": "488525"
+    },
+    {
+        "nom_hotel": "CAMPANILE RENNES SUD - Saint Jacques",
+        "marque": "CAMPANILE",
+        "location_id": "4089685"
+    },
+    {
+        "nom_hotel": "KYRIAD LILLE EST - Villeneuve d'Ascq",
+        "marque": "KYRIAD",
+        "location_id": "1699489"
+    },
+    {
+        "nom_hotel": "CAMPANILE SAINT ETIENNE CENTRE - Villars",
+        "marque": "CAMPANILE",
+        "location_id": "566022"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE GRENOBLE SUD - Gières Université",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1068225"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS SUD - Porte d'Italie",
+        "marque": "CAMPANILE",
+        "location_id": "16711418"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE CHALON SUR SAONE",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "482491"
+    },
+    {
+        "nom_hotel": "CAMPANILE LES ULIS",
+        "marque": "CAMPANILE",
+        "location_id": "287157"
+    },
+    {
+        "nom_hotel": "CAMPANILE FONTAINEBLEAU",
+        "marque": "CAMPANILE",
+        "location_id": "85177"
+    },
+    {
+        "nom_hotel": "KYRIAD BEAUVAIS SUD",
+        "marque": "KYRIAD",
+        "location_id": "481736"
+    },
+    {
+        "nom_hotel": "CAMPANILE MARSEILLE EST - Aubagne",
+        "marque": "CAMPANILE",
+        "location_id": "233767"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BORDEAUX EST - Lormont",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644574"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE CLERMONT FERRAND NORD",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "481703"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE DREUX",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488847"
+    },
+    {
+        "nom_hotel": "CAMPANILE CERGY SAINT CHRISTOPHE",
+        "marque": "CAMPANILE",
+        "location_id": "481731"
+    },
+    {
+        "nom_hotel": "CAMPANILE LE BOURGET - AIRPORT",
+        "marque": "CAMPANILE",
+        "location_id": "296872"
+    },
+    {
+        "nom_hotel": "CAMPANILE LE BLANC MESNIL",
+        "marque": "CAMPANILE",
+        "location_id": "154868"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS OUEST - Boulogne",
+        "marque": "CAMPANILE",
+        "location_id": "287145"
+    },
+    {
+        "nom_hotel": "KYRIAD BRIVE LA GAILLARDE OUEST",
+        "marque": "KYRIAD",
+        "location_id": "535442"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE ROUEN NORD - Bois Guillaume",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488726"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE DUNKERQUE - Saint-Pol-Sur-Mer",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488876"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE METZ NORD - Talange",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "487486"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE TOULOUSE NORD - L'Union",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "2454352"
+    },
+    {
+        "nom_hotel": "KYRIAD MEAUX SUD - Nanteuil les Meaux",
+        "marque": "KYRIAD",
+        "location_id": "487813"
+    },
+    {
+        "nom_hotel": "KYRIAD VALENCIENNES SUD - Rouvignies",
+        "marque": "KYRIAD",
+        "location_id": "287199"
+    },
+    {
+        "nom_hotel": "KYRIAD LIMOGES SUD - Feytiat",
+        "marque": "KYRIAD",
+        "location_id": "261874"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT AGEN CASTELCULIER",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "1106602"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT SAINTES",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "6556507"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE STRASBOURG SUD - Illkirch",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1071213"
+    },
+    {
+        "nom_hotel": "KYRIAD FONTENAY TRESIGNY",
+        "marque": "KYRIAD",
+        "location_id": "488031"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT BORDEAUX SUD - Cestas",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "627189"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE ISTRES",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "2273979"
+    },
+    {
+        "nom_hotel": "CAMPANILE TOULOUSE - Blagnac Aéroport",
+        "marque": "CAMPANILE",
+        "location_id": "514456"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT ROANNE",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "286859"
+    },
+    {
+        "nom_hotel": "KYRIAD NICE - Stade",
+        "marque": "KYRIAD",
+        "location_id": "294353"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE TOULOUSE SUD - Portet",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "627360"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE COLMAR NORD - Houssen",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "487789"
+    },
+    {
+        "nom_hotel": "CAMPANILE CALAIS",
+        "marque": "CAMPANILE",
+        "location_id": "481692"
+    },
+    {
+        "nom_hotel": "KYRIAD BORDEAUX - Lormont",
+        "marque": "KYRIAD",
+        "location_id": "597763"
+    },
+    {
+        "nom_hotel": "CAMPANILE LYON CENTRE - Berges du Rhône",
+        "marque": "CAMPANILE",
+        "location_id": "232353"
+    },
+    {
+        "nom_hotel": "KYRIAD STRASBOURG SUD - Lingolsheim",
+        "marque": "KYRIAD",
+        "location_id": "272404"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE COIGNIERES",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "224802"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE AGEN",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644520"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE ANNECY NORD - Epagny",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "3313811"
+    },
+    {
+        "nom_hotel": "KYRIAD SAINT QUENTIN EN YVELINES - Montigny",
+        "marque": "KYRIAD",
+        "location_id": "483509"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE PAMIERS",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "627358"
+    },
+    {
+        "nom_hotel": "CAMPANILE LA ROCHELLE NORD - Puilboreau",
+        "marque": "CAMPANILE",
+        "location_id": "277503"
+    },
+    {
+        "nom_hotel": "CAMPANILE STRASBOURG - Lingolsheim",
+        "marque": "CAMPANILE",
+        "location_id": "488419"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE MONTPELLIER OUEST - Saint Jean de Védas",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1017036"
+    },
+    {
+        "nom_hotel": "CAMPANILE BAYONNE",
+        "marque": "CAMPANILE",
+        "location_id": "627140"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE STRASBOURG OUEST",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "197342"
+    },
+    {
+        "nom_hotel": "CAMPANILE NANTES EST - Saint Sébastien sur Loire",
+        "marque": "CAMPANILE",
+        "location_id": "565381"
+    },
+    {
+        "nom_hotel": "CAMPANILE VIERZON",
+        "marque": "CAMPANILE",
+        "location_id": "287074"
+    },
+    {
+        "nom_hotel": "CAMPANILE BEZIERS",
+        "marque": "CAMPANILE",
+        "location_id": "507360"
+    },
+    {
+        "nom_hotel": "KYRIAD TARBES - Bastillac",
+        "marque": "KYRIAD",
+        "location_id": "312924"
+    },
+    {
+        "nom_hotel": "KYRIAD CLERMONT FERRAND NORD - Riom",
+        "marque": "KYRIAD",
+        "location_id": "1371009"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE VILLEJUST - ZA COURTABOEUF",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488660"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE MAUBEUGE - Feignies",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "1961540"
+    },
+    {
+        "nom_hotel": "CAMPANILE CLERMONT FERRAND - Le Brézet",
+        "marque": "CAMPANILE",
+        "location_id": "507198"
+    },
+    {
+        "nom_hotel": "CAMPANILE PARIS EST - Pantin",
+        "marque": "CAMPANILE",
+        "location_id": "287162"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE MARSEILLE EST - La Valentine",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "207554"
+    },
+    {
+        "nom_hotel": "KYRIAD VILLEFRANCHE SUR SAONE",
+        "marque": "KYRIAD",
+        "location_id": "233437"
+    },
+    {
+        "nom_hotel": "CAMPANILE BEAUVAIS",
+        "marque": "CAMPANILE",
+        "location_id": "313299"
+    },
+    {
+        "nom_hotel": "CAMPANILE DEAUVILLE - Saint Arnoult",
+        "marque": "CAMPANILE",
+        "location_id": "530354"
+    },
+    {
+        "nom_hotel": "CAMPANILE ROISSY",
+        "marque": "CAMPANILE",
+        "location_id": "239215"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LE BLANC MESNIL",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "644471"
+    },
+    {
+        "nom_hotel": "CAMPANILE CAEN EST - Mondeville",
+        "marque": "CAMPANILE",
+        "location_id": "534830"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE ORLY RUNGIS",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "291545"
+    },
+    {
+        "nom_hotel": "CAMPANILE SAINT JEAN DE LUZ",
+        "marque": "CAMPANILE",
+        "location_id": "15179683"
+    },
+    {
+        "nom_hotel": "CAMPANILE SAINT QUENTIN EN YVELINES",
+        "marque": "CAMPANILE",
+        "location_id": "287167"
+    },
+    {
+        "nom_hotel": "CAMPANILE DOLE",
+        "marque": "CAMPANILE",
+        "location_id": "287143"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT LILLE NORD - Roubaix",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "287198"
+    },
+    {
+        "nom_hotel": "CAMPANILE LILLE - Euralille",
+        "marque": "CAMPANILE",
+        "location_id": "4498818"
+    },
+    {
+        "nom_hotel": "CAMPANILE LYON CENTRE - Gare Part Dieu",
+        "marque": "CAMPANILE",
+        "location_id": "253267"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE BORDEAUX NORD - Lac",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "939910"
+    },
+    {
+        "nom_hotel": "KYRIAD MARNE LA VALLEE  - TORCY",
+        "marque": "KYRIAD",
+        "location_id": "565821"
+    },
+    {
+        "nom_hotel": "CAMPANILE VAL DE FRANCE",
+        "marque": "CAMPANILE",
+        "location_id": "487413"
+    },
+    {
+        "nom_hotel": "CAMPANILE CHARLEVILLE MEZIERES",
+        "marque": "CAMPANILE",
+        "location_id": "565363"
+    },
+    {
+        "nom_hotel": "KYRIAD DIRECT STRASBOURG OUEST - Zénith",
+        "marque": "KYRIAD DIRECT",
+        "location_id": "312903"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE COULOMMIERS - MOUROUX",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488667"
+    },
+    {
+        "nom_hotel": "KYRIAD CHANTILLY",
+        "marque": "KYRIAD",
+        "location_id": "482399"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE AVIGNON NORD - LE PONTET",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "651291"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE NANCY EST - ESSEY",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "488887"
+    },
+    {
+        "nom_hotel": "PREMIERE CLASSE LILLE SUD - HENIN BEAUMONT - NOYELLES GODAULT",
+        "marque": "PREMIERE CLASSE",
+        "location_id": "224802"
+    }
+]
